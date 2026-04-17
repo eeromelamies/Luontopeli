@@ -33,3 +33,10 @@ Luontopeli on Android-sovellus, joka kannustaa käyttäjiä liikkumaan luonnossa
 *   `sensor/`: Askelmittarin ja gyroskoopin hallinta.
 *   `ui/`: Compose-näkymät (Kartta, Tilastot, Löydöt) ja teeman määritykset.
 *   `viewmodel/`: Sovelluksen logiikka ja tilanhallinta.
+
+  <img width="163" height="344" alt="image" src="https://github.com/user-attachments/assets/f5e7870c-e2c7-4945-8e17-a7e9b933f216" />
+  <img width="164" height="344" alt="image" src="https://github.com/user-attachments/assets/757fb238-1050-481a-aca8-9287ec9590db" />
+  <img width="163" height="344" alt="image" src="https://github.com/user-attachments/assets/aa984f7a-9ad8-414d-97ff-330c8437652c" />
+
+
+
